@@ -1,0 +1,40 @@
+{
+  "product": [
+    {
+      "id": 101,
+      "name": "Laptop",
+      "price": "97000",
+      "company": "Acer"
+    },
+    {
+      "id": 102,
+      "name": "Keyboard",
+      "price": 5000,
+      "company": "Iball"
+    },
+    {
+      "id": 104,
+      "name": "USB",
+      "price": "1000",
+      "company": "Toshiba"
+    },
+    {
+      "id": 105,
+      "name": "Printer",
+      "price": 12000,
+      "company": "Hp"
+    },
+    {
+      "name": "Mouse",
+      "price": "5000",
+      "company": "Logitech",
+      "id": 106
+    },
+    {
+      "name": "Graphic Card",
+      "price": "15000",
+      "company": "Gforce",
+      "id": 107
+    }
+  ]
+}

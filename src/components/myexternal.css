@@ -1,0 +1,35 @@
+.textDanger{
+    color: red;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.textSuccess{
+    color: green;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.myBox{
+    border: 3px solid blanchedalmond;
+    width: 405px;
+    text-align: center;
+    margin: auto;
+    padding: 9px;
+}
+
+.myForm{
+    width: 100px;
+    border: 5px solid aqua;
+    border-radius: 61px 0px 61px 0px;
+    box-shadow: 17px 17px 8px grey;
+}
+
+.myHeading{
+    background-color: aqua;
+    color: blue;
+    font-family: revert;
+    border-bottom: 3px solid blue;
+    font-weight: 700;
+    text-shadow: 4px 2px 3px cornsilk;
+}

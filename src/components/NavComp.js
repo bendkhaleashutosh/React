@@ -10,7 +10,7 @@ const NavComp = ()=> {
             <Link to="toggleimg" className='btn btn-primary btn-sm'>Toggle Image</Link>{' '}
             <Link to="myclasscomp" className='btn btn-primary btn-sm'>My Class Component</Link>{' '}
             <Link to="smiletogg" className='btn btn-primary btn-sm'>Smile Toggle</Link>{' '}
-            <Link to="mycolor" className='btn btn-primary btn-sm'>My Color</Link>{' '}
+            <Link to="mycolor" className='btn btn-secondary btn-sm'>My Color</Link>{' '}
             <Link to="myfavcolor" className='btn btn-primary btn-sm'>My Fav Color</Link>{' '}
             <Link to="usestate" className='btn btn-primary btn-sm'>Use State Comp</Link>{' '}
             <Link to="dashboard" className='btn btn-success btn-sm'>CRUD</Link>{' '}
